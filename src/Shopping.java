@@ -73,7 +73,7 @@ public class Shopping {
         int productIndex=scanner.nextInt()-1;
 
         if (productIndex>=0 && productIndex<availableProducts.size()){
-            try {
+            try {c
                 cart.addProduct(availableProducts.get(productIndex),productCatalog);
             }catch (ProductNotFindException e){
                 System.out.println("Wrong product choice");
