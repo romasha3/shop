@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="322fdef6-a053-431d-aad2-6de754d7efcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Accessories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cosmetics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductCatalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductNotFindException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clothing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shopping.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +41,7 @@
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/java/shop/src/Main.java&quot;
   }

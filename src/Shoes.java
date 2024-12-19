@@ -11,8 +11,5 @@ public class Shoes extends Product{
         System.out.println("Shoes: "+name+",Size: "+size+",Price: "+price);
     }
 
-    public int getSize() {
-        return size;
-    }
 }
 
